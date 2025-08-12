@@ -1,0 +1,13 @@
+- Gamespace Bypass charging
+- Update fingerprints and security string to August 2025 release
+- Add option for compact qs brightness slider position
+- Fix Launcher3 gesture crash
+- Add smart pixel
+- Fix launcher3 applist sorting issue
+- Ensure visibility updates run on main thread
+- Fix hardware buffer crash
+- Make fallback qs shade darker
+- Improve slider haptics
+- Introduce Adaptive Playback
+- Remove duplicate snapchat option
+- Change collapsed header color to match background color
